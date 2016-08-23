@@ -1,6 +1,11 @@
 package adapter;
 
-public interface Penguins {
+/**
+ * 
+ * penguin don't fly
+ *
+ */
+public interface Penguin {
 	void Penguin_gobble();
 	void Penguin_walk();
 }
