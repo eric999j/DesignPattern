@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 public class KingPenguin implements Penguin {
 

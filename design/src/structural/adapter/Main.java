@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 // https://dotblogs.com.tw/pin0513/2010/05/30/15497
 /*

@@ -1,4 +1,4 @@
-package adapter;
+package structural.adapter;
 
 public interface Duck {
 	void Duck_quack();

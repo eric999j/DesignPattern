@@ -1,4 +1,4 @@
-package facede;
+package structural.facade;
 
 public class SiriFacade {
 
