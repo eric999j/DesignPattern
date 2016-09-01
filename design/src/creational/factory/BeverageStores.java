@@ -17,7 +17,6 @@ public class BeverageStores{
         return beverage;
     }
     
-    //[2016.08.29 Eric Lu] Factory Method
     private BeverageFactory factory;
     public BeverageStores(BeverageFactory factory){
     	if("CoffeeFactory".equals(factory.getClass().getSimpleName())){
